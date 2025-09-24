@@ -7,7 +7,7 @@
 # Features:
 
 - Login/SignUp
-    - Sign In/SignUp Form
+    - Sign In/SignUp Form (Formik library for validation can be used for app with complex forms )
     - Redirect to Browse Page
 - Browse (After Authentication- LoggedIn User)
     -Header
@@ -20,3 +20,4 @@
 - NetFlixGPT
     - Search Bar
     - Movie Suggestion
+
